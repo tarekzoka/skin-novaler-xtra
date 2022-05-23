@@ -7,7 +7,7 @@
 #!/bin/sh
 echo
 
-opkg install --force-overwrite  https://github.com/tarekzoka/skin-novaler-xtra/blob/main/enigma2-plugin_skin.Novaler-S-Xtra-FHD-V5.3_all.ipk?raw=true
+opkg install --force-overwrite  https://github.com/tarekzoka/skin-novaler-xtra/blob/main/enigma2-novaler-s-xtra-fhd-blue_v1.0_all.ipk?raw=true
 sleep 2;
 exit 0
 MY_SEP='============================================================='
